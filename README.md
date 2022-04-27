@@ -1,4 +1,8 @@
-### Oie! 👋
+### Oie! Aqui é a Jhulya 👋
+
+- 🎈 17 anos; 
+- 📚 Cursando o Terceiro ano em Desenvolvimento de Sistemas no COLTEC - UF〽️G;
+- 💻 Dev Front-End.
 
 <div align="center">
   <a href="https://github.com/jhulya">
